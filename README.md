@@ -31,8 +31,8 @@ repositorio **no compila una app funcional**: clonarlo no da nada ejecutable, y 
 
 ## Versión actual
 
-**2.1.19** (versionCode 23) · 17.088.099 bytes
-`sha256 248ea064ae384c186a47def9d519dd41cb4876604fde6f4330eb0c6ab6b13414`
+**2.1.20** (versionCode 24) · 17.084.771 bytes
+`sha256 20232c77ddff10449e6541dc51ff6f38a29a231e15c7e2b1d6aebd33737b5995`
 
 Cambios de esta versión en [`CHANGELOG.md`](CHANGELOG.md).
 

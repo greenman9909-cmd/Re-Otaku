@@ -1,5 +1,18 @@
 # Cambios
 
+## 2.1.20 — cabecera fija y panel de chat como la referencia
+
+- **Los botones de la cabecera responden siempre.** Al hacer scroll la barra se desvanecía y se desplazaba
+  fuera de la zona táctil, y una capa del héroe se quedaba por encima. Ahora la cabecera se mantiene visible,
+  con capa propia, y chat, actualizar, avisos y menú abren con un toque en cualquier posición de la página.
+- **Panel de chat a sangre en móvil**, con su propia cabecera debajo de la barra de la app: título, presencia
+  en directo y cierre a la derecha.
+- **Ajuste tipográfico y de aire** en cabecera, Comunidad, tarjetas y compositor.
+- **Comunidad** con pestañas Foro/Chat en vivo, recuentos reales y tarjetas con último mensaje.
+- **Se retira la voz:** sin salas, cámara ni notas de voz. Los mensajes antiguos de ese tipo se muestran como
+  «Mensaje de voz · ya no disponible».
+- **Versión interna** 24 (2.1.20). Misma firma e id de paquete: se instala encima sin perder datos.
+
 ## 2.1.19 — correcciones de la beta pública
 
 - **Foto de perfil y portada con más resolución.** Los avatares se recortaban a 256 px; ahora se recortan a

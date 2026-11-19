@@ -31,8 +31,8 @@ repositorio **no compila una app funcional**: clonarlo no da nada ejecutable, y 
 
 ## Versión actual
 
-**2.1.19** (versionCode 23) · 16.865.832 bytes
-`sha256 ca19f758b9da164a4cc30b219216129da661cfe5b6af7899c3451163a925337d`
+**2.1.19** (versionCode 23) · 17.088.099 bytes
+`sha256 248ea064ae384c186a47def9d519dd41cb4876604fde6f4330eb0c6ab6b13414`
 
 Cambios de esta versión en [`CHANGELOG.md`](CHANGELOG.md).
 
@@ -46,6 +46,10 @@ almacenamiento externo ni telefonía. Detalle completo en [`docs/PERMISSIONS.md`
 Sin cuenta obligatoria, sin analítica y sin publicidad propia. Biblioteca, historial y progreso se quedan
 en el dispositivo. Lo único que sale del teléfono son las peticiones al catálogo (AniList/TMDB) y a las
 fuentes de vídeo que elijas. Detalle en [`docs/PRIVACY.md`](docs/PRIVACY.md).
+
+## Actualizaciones
+
+La interfaz se actualiza **sin volver a instalar el APK**: la app consulta `/ota.json` en el sitio oficial y, si hay una versión de parche mayor, la carga encima (CSS + JS). Los cambios nativos (permisos, reproductor, Java) sí requieren APK nuevo; el resto llega solo.
 
 ## Preguntas frecuentes
 

@@ -8,17 +8,11 @@
 
 ## 2.2.0 — Android TV y mejoras de reproducción
 
-- Añadida una aplicación específica para Android TV.
-- Selector de audio doblado, con subtítulos en el idioma elegido.
-- Rueda de episodios, reparto y voces.
-- Correcciones de imágenes, nombres y temporadas.
-- Mejoras en la primera reproducción y corrección de vídeo verde.
-
-## 2.1.61 Rust Lab — versión preliminar de pruebas
-
-- Módulo Rust/WASM para tareas de subtítulos, alineación temporal, selección de calidad y metadatos de episodios.
-- Integración de la biblioteca y controles de reproducción con el módulo experimental.
-- Importación y exportación de bibliotecas mediante formatos compatibles.
+- Nueva aplicación para Android TV.
+- Selector de doblaje en inglés, con subtítulos en el idioma elegido.
+- Rueda de episodios, personajes y voces.
+- Correcciones de imágenes y nombres para cada temporada.
+- Correcciones del vídeo verde y de la reproducción en el primer intento.
 
 ## 2.1.20 — cabecera fija y panel de chat
 

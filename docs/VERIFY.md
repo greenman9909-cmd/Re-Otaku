@@ -1,46 +1,52 @@
 # Verificar la descarga
 
-Antes de instalar el APK, comprueba que es exactamente el que publiqué. Son dos comprobaciones de un
-minuto: el hash del archivo y la firma.
+Descarga el APK desde el [sitio oficial](https://reotaku-descargar.vercel.app/) o desde la [última versión publicada en GitHub](https://github.com/greenman9909-cmd/Re-Otaku/releases/latest). Antes de instalarlo, compara su SHA-256 con la entrada correspondiente de [`checksums.txt`](../checksums.txt).
+
+Los nombres de archivo de la versión v2.3.1 son:
+
+- `reotaku-android.apk` — Android phone
+- `reotaku-tv.apk` — Android TV
+- `reotaku-universal.apk` — universal build
 
 ## 1. SHA-256
-
-El hash de cada versión está en [`../checksums.txt`](../checksums.txt).
 
 **Windows (PowerShell)**
 
 ```powershell
-Get-FileHash .\REOTAKU-2.1.20-QA.apk -Algorithm SHA256
+Get-FileHash .\reotaku-android.apk -Algorithm SHA256
 ```
 
 **Linux / macOS**
 
 ```bash
-sha256sum REOTAKU-2.1.20-QA.apk      # o: shasum -a 256 REOTAKU-2.1.20-QA.apk
+sha256sum reotaku-android.apk
+# macOS también admite: shasum -a 256 reotaku-android.apk
 ```
 
-Debe coincidir con la línea del archivo. Si no coincide, borra el archivo y descárgalo otra vez del sitio
-oficial.
+Cambia el nombre del archivo si descargaste la versión TV o universal. El hash calculado debe coincidir exactamente con la línea correspondiente de `checksums.txt`. Si no coincide, no instales el archivo: vuelve a descargarlo desde el sitio o la release oficial.
 
 ## 2. Firma del paquete
 
-Con las *build-tools* de Android:
+Con las Android SDK Build Tools:
 
 ```bash
-apksigner verify --print-certs REOTAKU-2.1.20-QA.apk
+apksigner verify --print-certs reotaku-android.apk
 ```
 
-La huella SHA-256 del certificado debe ser la misma en todas las versiones: es lo que permite actualizar
-encima sin desinstalar. Si un APK que dice ser RE:OTAKU trae otro certificado, no es mío.
+La identidad de firma debe coincidir entre versiones para poder actualizar la instalación existente sin desinstalarla. Android rechazará una actualización firmada con una clave distinta.
 
 ## 3. Scripts incluidos
 
+**Linux / macOS**
+
 ```bash
-./tools/verify-apk.sh REOTAKU-2.1.20-QA.apk
+./tools/verify-apk.sh reotaku-android.apk
 ```
+
+**Windows (PowerShell)**
 
 ```powershell
-.\tools\verify-apk.ps1 -Apk .\REOTAKU-2.1.20-QA.apk
+.\tools\verify-apk.ps1 -Apk .\reotaku-android.apk
 ```
 
-El script compara el hash contra `checksums.txt` y, si `apksigner` está disponible, imprime el certificado.
+Los scripts comparan el hash con `checksums.txt` y, si `apksigner` está disponible, muestran la información del certificado.

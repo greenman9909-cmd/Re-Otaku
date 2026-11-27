@@ -15,7 +15,7 @@
   <img src="screenshots/04-home.jpg" width="250" alt="RE:OTAKU home screen" />
 </p>
 
-**Latest public release: [v2.4.0](https://github.com/greenman9909-cmd/Re-Otaku/releases/tag/v2.4.0)**
+**Latest public release: [v2.4.2](https://github.com/greenman9909-cmd/Re-Otaku/releases/tag/v2.4.2)**
 
 RE:OTAKU brings anime discovery, personalised profiles, an integrated HLS player, subtitle tools, a personal library and community features into one Android experience. The goal is simple: open the app, find something worth watching and press play — without having to assemble a collection of separate websites, players and tools.
 

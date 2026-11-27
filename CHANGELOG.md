@@ -1,5 +1,14 @@
 # Cambios
 
+## 2.4.2 — últimas mejoras de Android
+
+- Últimos cambios del reproductor y de la interfaz móvil.
+- Actualizaciones de AniList, importación y sincronización de biblioteca.
+- Retirada de tarjetas de Seguir viendo con opción Deshacer.
+- Mejoras de actualización y del ciclo de vida de Android.
+- Logotipos de TV en el idioma seleccionado y cachés separadas por idioma.
+
+
 ## 2.4.0 — subtítulos y experiencia TV
 
 - Subtítulos de TV alineados con móvil: temporada correcta, pistas completas, selección de idioma y reintentos.

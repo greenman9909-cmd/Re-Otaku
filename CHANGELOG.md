@@ -1,5 +1,14 @@
 # Cambios
 
+## 2.4.0 — subtítulos y experiencia TV
+
+- Subtítulos de TV alineados con móvil: temporada correcta, pistas completas, selección de idioma y reintentos.
+- Traducción por lotes sin perder líneas ni cambiar los tiempos; cancelación al cambiar episodio o idioma.
+- Nueva configuración inicial para TV, guía del mando e importación opcional de bibliotecas.
+- Tema predeterminado de TV igual que móvil: negro, superficies neutras, botones blancos y acento azul.
+- Conexión de AniList desde la ventana de cuenta del móvil; sincronización opcional.
+
+
 ## 2.3.1 — mejoras de navegación y catálogo
 
 - **Navegación inferior:** corregido el recorte de las etiquetas en la barra inferior de Comunidad.

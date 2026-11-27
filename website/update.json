@@ -1,0 +1,20 @@
+{
+  "version": "2.4.5",
+  "phone": "reotaku-android.apk",
+  "tv": "reotaku-tv.apk",
+  "universal": "reotaku-universal.apk",
+  "phone_size": 27933223,
+  "tv_size": 2264875,
+  "universal_size": 74196645,
+  "size": 27933223,
+  "notes": "TV: inicio renovado con logotipos y filas variadas, siete fondos, búsqueda con el teclado del sistema, navegación por temporadas, numeración de episodios mejorada, configuración en cuatro pasos y ajustes más grandes. Paquetes móviles actualizados a la misma versión 2.4.5.",
+  "notes_i18n": {
+    "en": "TV: redesigned Home with title logos and varied rows, seven background themes, system-keyboard search, season navigation, improved episode numbering, four-step setup and larger settings tiles. Phone packages updated to the matching 2.4.5 release.",
+    "es": "TV: inicio renovado con logotipos y filas variadas, siete fondos, búsqueda con el teclado del sistema, navegación por temporadas, numeración de episodios mejorada, configuración en cuatro pasos y ajustes más grandes. Paquetes móviles actualizados a la misma versión 2.4.5.",
+    "ja": "TV：作品ロゴと多彩なホーム画面、7種類の背景、システムキーボード検索、シーズン移動、エピソード番号の改善、4段階の初期設定、大きな設定タイル。スマートフォン版も2.4.5に統一。",
+    "pt": "TV: início renovado com logótipos e filas variadas, sete fundos, pesquisa com teclado do sistema, navegação por temporadas, numeração de episódios melhorada, configuração em quatro passos e definições maiores. Pacotes móveis atualizados para a mesma versão 2.4.5.",
+    "fr": "TV : accueil repensé avec logos et rangées variées, sept fonds, recherche avec le clavier système, navigation par saison, numérotation des épisodes améliorée, configuration en quatre étapes et grandes tuiles de réglages. Applications mobiles alignées sur la version 2.4.5.",
+    "it": "TV: Home rinnovata con loghi e righe varie, sette sfondi, ricerca con tastiera di sistema, navigazione per stagioni, numerazione degli episodi migliorata, configurazione in quattro passi e impostazioni più grandi. Pacchetti mobili aggiornati alla stessa versione 2.4.5.",
+    "de": "TV: neue Startseite mit Titellogos und abwechslungsreichen Reihen, sieben Hintergründe, Suche mit Systemtastatur, Staffelnavigation, verbesserte Episodennummern, Einrichtung in vier Schritten und größere Einstellungskacheln. Handy-Pakete ebenfalls auf Version 2.4.5 aktualisiert."
+  }
+}

@@ -1,5 +1,14 @@
 # Cambios
 
+## 2.4.5 — nueva experiencia de TV
+
+- Inicio con logotipos y filas variadas; siete fondos de color.
+- Búsqueda con teclado del sistema y navegación por temporadas.
+- Mejor numeración de episodios y mensajes de disponibilidad.
+- Configuración en cuatro pasos, ajustes con grandes tarjetas y lista vacía más clara.
+- Paquetes móviles alineados con la versión 2.4.5 del feed compartido.
+
+
 ## 2.4.2 — últimas mejoras de Android
 
 - Últimos cambios del reproductor y de la interfaz móvil.

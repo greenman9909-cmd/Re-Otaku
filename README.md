@@ -5,7 +5,7 @@
 
 ![RE:OTAKU on Android and Android TV](screenshots/2026-11-27/overview.jpg)
 
-**Current public beta: [2.4.2](https://github.com/greenman9909-cmd/Re-Otaku/releases/tag/v2.4.2)** · Android 7 or later · No account required to explore.
+**Current public beta: [2.4.5](https://github.com/greenman9909-cmd/Re-Otaku/releases/tag/v2.4.5)** · Android 7 or later · No account required to explore.
 
 RE:OTAKU brings anime discovery, personal profiles, a library, an integrated player and optional AniList tracking into one experience. Android TV has its own layout and remote navigation, so the app feels at home on a larger screen.
 
@@ -17,7 +17,7 @@ RE:OTAKU brings anime discovery, personal profiles, a library, an integrated pla
 | Android TV | [TV APK](https://github.com/greenman9909-cmd/Re-Otaku/releases/latest/download/reotaku-tv.apk) | 2.2 MiB |
 | Other compatible Android devices | [Universal APK](https://github.com/greenman9909-cmd/Re-Otaku/releases/latest/download/reotaku-universal.apk) | 70.8 MiB |
 
-Sizes refer to version 2.4.2. The [download website](https://reotaku-descargar.vercel.app/) includes installation steps, screenshots, FAQs and community reviews.
+Sizes refer to version 2.4.5. The [download website](https://reotaku-descargar.vercel.app/) includes installation steps, screenshots, FAQs and community reviews.
 
 On your phone, download the APK and open it. Android may ask you to allow installation from your browser or file manager. On Android TV, open the download website in Downloader and choose the TV APK. Install updates over the same package to preserve local app data.
 

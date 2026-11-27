@@ -1,5 +1,12 @@
 # Cambios
 
+## 2.4.7 — calidad y legibilidad de las fichas de TV
+
+- Fondos originales, imágenes de episodios de 780 px y logotipos más legibles.
+- Mayor contraste, enfoque del mando más claro y sinopsis completa desplazable.
+- Marcadores numerados para imágenes ausentes y corrección de la doble acción de volver.
+
+
 ## 2.4.6 — conexión con AniList
 
 - Inicio de sesión por código de autorización y secreto protegido en el servidor.

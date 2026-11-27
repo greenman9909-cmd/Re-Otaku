@@ -1,4 +1,4 @@
-# RE:OTAKU v2.4.6 official release assets — SHA-256
-616470bd52bc014068a9331bf9504f46714d9d53996f47a5fe91664a6a1dfbc6  reotaku-android.apk
-eed85d8f9c5fcad45b6896808d54a91c27c965b98f9363859877ac53a64d65d4  reotaku-tv.apk
-63bd334029431b2a1946ff3d7792a851fafe0aceaf493fdcbcd8c522ad315e6d  reotaku-universal.apk
+# RE:OTAKU v2.4.7 official release assets — SHA-256
+5d4bb299bedbd1a3ea62d2bdbeb420a6230d4b163fa4f8a5fa136b868d5e9449  reotaku-android.apk
+6405d96af3f72f9cf74ba1e5d64b8067b631446109f987b83154e25a8c00e178  reotaku-tv.apk
+e368595ddd3993199772b85987a03face15199777140a7ae86b8fc8b5dad3c10  reotaku-universal.apk

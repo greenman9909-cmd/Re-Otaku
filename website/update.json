@@ -1,20 +1,20 @@
 {
-  "version": "2.4.6",
+  "version": "2.4.7",
   "phone": "reotaku-android.apk",
   "tv": "reotaku-tv.apk",
   "universal": "reotaku-universal.apk",
-  "phone_size": 27933691,
-  "tv_size": 2265123,
-  "universal_size": 74197113,
-  "size": 27933691,
-  "notes": "Corrige la conexión con AniList en Android y TV mediante código de autorización e intercambio seguro en el servidor. Verifica la cuenta antes de guardarla. Importa tu biblioteca y progreso de AniList; rechaza respuestas caducadas, incorrectas o repetidas.",
+  "phone_size": 27934751,
+  "tv_size": 2266163,
+  "universal_size": 74198173,
+  "size": 27934751,
+  "notes": "Fichas de TV más nítidas: fondos en resolución original en calidad automática/completa, imágenes de episodios de 780 px, mayor contraste de texto y botones, logotipos más claros y sinopsis completa desplazable. Sin imagen se muestra el número del episodio. Corrige la doble navegación al volver y renueva la caché de arte.",
   "notes_i18n": {
-    "en": "Fixes AniList connection on Android and TV using authorization-code login and a secure server-side exchange. Verifies the account before saving the connection. Imports your AniList library and continue-watching progress; rejects expired, mismatched and replayed callbacks.",
-    "es": "Corrige la conexión con AniList en Android y TV mediante código de autorización e intercambio seguro en el servidor. Verifica la cuenta antes de guardarla. Importa tu biblioteca y progreso de AniList; rechaza respuestas caducadas, incorrectas o repetidas.",
-    "ja": "Android・TVのAniList接続を認可コードと安全なサーバー側処理で修正。アカウント確認後に接続を保存。ライブラリと視聴進捗を取り込み、期限切れ・不一致・再利用されたコールバックを拒否します。",
-    "pt": "Corrige a ligação ao AniList no Android e TV com código de autorização e troca segura no servidor. Verifica a conta antes de guardar a ligação. Importa a biblioteca e o progresso; rejeita respostas expiradas, incorretas ou repetidas.",
-    "fr": "Corrige la connexion AniList sur Android et TV avec un code d’autorisation et un échange sécurisé côté serveur. Vérifie le compte avant de le connecter. Importe la bibliothèque et la progression ; rejette les réponses expirées, incorrectes ou réutilisées.",
-    "it": "Corregge la connessione AniList su Android e TV con codice di autorizzazione e scambio sicuro sul server. Verifica l’account prima di salvare la connessione. Importa libreria e progressi; rifiuta risposte scadute, errate o riutilizzate.",
-    "de": "Behebt die AniList-Verbindung auf Android und TV mit Autorisierungscode und sicherem Austausch auf dem Server. Prüft das Konto vor dem Speichern. Importiert Bibliothek und Wiedergabefortschritt; lehnt abgelaufene, falsche und wiederverwendete Rückmeldungen ab."
+    "en": "Sharper TV detail pages: original-resolution backgrounds in Auto/Full quality, 780px episode stills, stronger text and button contrast, clearer logos and a full scrollable synopsis. Missing stills use numbered placeholders. Fixes double Back navigation and artwork cache refresh.",
+    "es": "Fichas de TV más nítidas: fondos en resolución original en calidad automática/completa, imágenes de episodios de 780 px, mayor contraste de texto y botones, logotipos más claros y sinopsis completa desplazable. Sin imagen se muestra el número del episodio. Corrige la doble navegación al volver y renueva la caché de arte.",
+    "ja": "TV詳細画面を改善。自動・高品質モードで背景を元解像度に、エピソード画像を780pxに。文字・ボタン・ロゴの視認性向上、全文をスクロールできるあらすじ、画像がない場合の番号表示。戻る操作の重複と画像キャッシュを修正。",
+    "pt": "Detalhes de TV mais nítidos: fundos na resolução original em qualidade automática/completa, imagens de episódios de 780 px, melhor contraste, logótipos mais claros e sinopse completa com deslocamento. Sem imagem, aparece o número do episódio. Corrige a navegação dupla ao voltar e renova a cache de arte.",
+    "fr": "Fiches TV plus nettes : fonds en résolution originale en qualité automatique/complète, images d’épisodes de 780 px, meilleur contraste, logos plus lisibles et synopsis intégral défilant. Sans image, le numéro de l’épisode apparaît. Corrige le double retour et renouvelle le cache des illustrations.",
+    "it": "Schede TV più nitide: sfondi alla risoluzione originale in qualità automatica/completa, immagini degli episodi da 780 px, contrasto migliore, loghi più leggibili e trama completa scorrevole. Senza immagine viene mostrato il numero dell’episodio. Corregge il doppio ritorno e aggiorna la cache delle immagini.",
+    "de": "Schärfere TV-Detailseiten: Hintergründe in Originalauflösung bei Auto/Voll, Episodenbilder mit 780 px, stärkerer Kontrast, klarere Logos und vollständige scrollbare Beschreibung. Fehlende Bilder zeigen die Episodennummer. Behebt doppeltes Zurück-Navigieren und erneuert den Bildercache."
   }
 }

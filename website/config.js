@@ -1,6 +1,6 @@
 /* Public values only. Keep this folder linked to the production Vercel project. */
 window.SITE = {
-  version: "2.4.5",
+  version: "2.4.6",
   repo: "greenman9909-cmd/Re-Otaku",
   sizes: { phone: "26.6 MB", tv: "2.2 MB" },
   supabaseUrl: "https://iwagahftjwyfjesoumrx.supabase.co",

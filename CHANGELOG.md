@@ -1,5 +1,12 @@
 # Cambios
 
+## 2.4.6 — conexión con AniList
+
+- Inicio de sesión por código de autorización y secreto protegido en el servidor.
+- Verificación de cuenta antes de guardar la conexión en móvil y TV.
+- Importación de biblioteca y progreso; validación de estado y protección frente a respuestas repetidas.
+
+
 ## 2.4.5 — nueva experiencia de TV
 
 - Inicio con logotipos y filas variadas; siete fondos de color.
